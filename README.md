@@ -5,7 +5,9 @@
 The objective of this project is to develop a machine learning model to detect fraudulent transactions. This project explores both supervised and unsupervised approaches for fraud detection, aiming to highlight anomaly detection skills and handle unlabeled data effectively.
 
 ## Dataset
-We used the  Credit Card Fraud Detection dataset.
+I have used the  Credit Card Fraud Detection dataset.
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 
 ## Steps Breakdown
 1. **Data Exploration and Preprocessing**
