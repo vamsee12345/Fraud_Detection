@@ -27,6 +27,6 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Instructions
 1. Clone the repository.
-2. Run the `notebook.ipynb` file to reproduce the results.
+2. Run the `nfraud_detection` file to reproduce the results.
 3. Refer to the visualizations and explanations in the notebook for insights.
 
